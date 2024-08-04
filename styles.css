@@ -1,0 +1,103 @@
+
+body {
+    font-family: 'Roboto Serif', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+.navbar {
+    font-family: 'Share Tech', sans-serif;
+    background-color: #feffff;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #fff;
+}
+
+.nav-link {
+    font-size: 1.1rem;
+    color: #fff;
+}
+
+.nav-link:hover {
+    color: #cce0ff;
+}
+
+/* Hero Section */
+#hero {
+    background-color: #004080;
+    color: white;
+    padding: 5% 0;
+}
+
+#hero h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+#hero p {
+    font-size: 1.2rem;
+}
+
+#hero .btn {
+    margin: 1rem;
+    background-color: #0056b3;
+    color: white;
+}
+
+#hero .btn:hover {
+    background-color: #004494;
+}
+
+/* About Section */
+#about {
+    padding: 5% 0;
+}
+
+#about h2 {
+    font-size: 2rem;
+    color: #003366;
+}
+
+/* Portfolio Section */
+#portfolio {
+    padding: 5% 0;
+}
+
+.card {
+    margin-bottom: 1rem;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    background-color: floralwhite
+}
+
+.card-text {
+    font-size: 1rem;
+}
+
+/* Contact Section */
+#contact {
+    background-color: #f8f9fa; 
+    padding: 5% 0;
+}
+
+#contact h2 {
+    color: #003366;
+}
+
+.social-links i {
+    color: #003366; 
+}
+
+/* Footer */
+footer {
+    background-color: #003366;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
